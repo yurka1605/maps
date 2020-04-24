@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    height: 100vh;
+}
+#ymaps1587626959103755364 {
+    width: 100%!important;
+    height: auto;
+}
+.ymaps-2-1-76-svg-icon,
+.ymaps_https___api_maps_yandex_ru_2_1_76_918668275000islands_dotIcon___ED4543__ED4543_34x41_1587730238584 {
+    background-image: url('./logo-big.png')!important;
+}
+.ymaps-2-1-76-balloon__layout {
+    /* background-color: rgb(255, 59, 51)!important; */
+    color: #162466!important;
+    font-weight: 400;
+    font-family: 'Montserrat', sans-serif;
+}
+.ymaps-2-1-76-balloon__content {
+    padding: 20px 0 20px 20px!important;
+}
+.ymaps-2-1-76-balloon__content b {
+    font-size: 18px;
+    display: block;
+    padding-bottom: 5px;
+}
+.ymaps-2-1-76-balloon__content div {
+    border-top: 1px solid #162466;
+    padding-top: 7px;
+    font-size: 16px;
+}
+.ymaps-2-1-76-balloon__close-button {
+    background-image: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCI+DQogICAgPHBhdGggZmlsbD0icmdiKDI1NSwgNTksIDUxKSIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNMTQgLjdsLS43LS43TDcgNi4zLjcgMCAwIC43IDYuMyA3IDAgMTMuM2wuNy43TDcgNy43bDYuMyA2LjMuNy0uN0w3LjcgN3oiIGNsaXAtcnVsZT0iZXZlbm9kZCIvPg0KPC9zdmc+')!important;
+    transition: all .3s linear;
+}
