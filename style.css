@@ -13,6 +13,10 @@ body {
 .ymaps-2-1-76-svg-icon,
 .ymaps_https___api_maps_yandex_ru_2_1_76_918668275000islands_dotIcon___ED4543__ED4543_34x41_1587730238584 {
     background-image: url('./logo-big.png')!important;
+    /* background-image: url('./logo-big-1.png')!important;
+    width: 52px!important;
+    height: 25px!important; */
+    /* background-size: 52px 25px!important; */
 }
 .ymaps-2-1-76-balloon__layout {
     /* background-color: rgb(255, 59, 51)!important; */
